@@ -1,7 +1,7 @@
 # Juliany Savazzi 💁🏻‍♀️
 
 ### Sobre mim 🙃
-Olá, meu nome é Juliany, sou do interior de SP, me formei em Análise e Desenvolvimento de Sistemas em 2021, mas ainda não trabalho na área, atualmente estou cursando Design Musical na Unicesumar. Minhas paixões são animais de estimação, música (principalmente música eletrônica) e tecnologia. 
+Olá, meu nome é Juliany, sou do interior de SP, me formei em Análise e Desenvolvimento de Sistemas em 2021 e atualmente estou cursando Design Musical na Unicesumar. Minhas paixões são animais de estimação, música (principalmente música eletrônica) e tecnologia. 
 
 ### Se conecte comigo 🔗
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JulianySavazzi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliany-savazzi/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julianysavazzi/) [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://twitter.com/JulianySavazzi)
