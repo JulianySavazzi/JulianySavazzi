@@ -13,5 +13,6 @@ Olá, meu nome é Juliany, sou do interior de SP, me formei em Análise e Desenv
 
 ### GitHub status 🗂️
 
+![Juliany's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianySavazzi&theme=synthwave&show_icons=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JulianySavazzi&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianySavazzi&layout=compact)
